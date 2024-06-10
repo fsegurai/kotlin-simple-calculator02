@@ -25,6 +25,6 @@
         <item name="android:textSize">25sp</item>
         <item name="android:textColor">@color/orange</item>
         <item name="android:textAlignment">center</item>
-        <item name="android:onClick">operationAction</item>
+        <item name="android:onClick">operatorAction</item>
     </style>
 </resources>
